@@ -1,11 +1,11 @@
 show_id,type,title,director,cast,country,date_added,release_year,duration,description,genre
-s1,Movie,The Great Adventure,John Smith,"Actor A, Actor B",USA,"January 15, 2020",1993,95 min,An epic journey through uncharted lands.,Adventure
-s2,Movie,Romance in Paris,Emma Brown,"Actor C, Actor D",France,"March 3, 2021",1997,120 min,A love story set in the city of lights.,Romance
-s3,TV Show,Mystery Nights,Lucas White,"Actor E, Actor F",UK,"June 12, 2019",1995,2 Seasons,Unsolved mysteries haunt the dark nights.,Mystery
-s4,Movie,Action Heroes,Sophia Johnson,"Actor G, Actor H",Canada,"July 22, 2020",1999,105 min,A group of heroes save the world from evil.,Action
-s5,Movie,Dream Big,Michael Green,"Actor I, Actor J",India,"October 5, 2022",1992,90 min,Inspiring story of following your dreams.,Drama
-s6,TV Show,Comedy Central,Olivia Lee,"Actor K, Actor L",USA,"December 18, 2021",1996,3 Seasons,Laughs and joy with friends and family.,Comedy
-s7,Movie,The Last Battle,David Wilson,"Actor M, Actor N",Australia,"April 10, 2020",1994,110 min,The final stand against all odds.,Action
-s8,Movie,Love Forever,Emily Taylor,"Actor O, Actor P",Nigeria,"September 7, 2022",1998,100 min,A timeless romance that never fades.,Romance
-s9,Movie,Science Quest,Chris Martin,"Actor Q, Actor R",Germany,"May 29, 2018",1991,85 min,Exploring the wonders of science.,Sci-Fi
-s10,TV Show,Historic Tales,Sarah Lewis,"Actor S, Actor T",South Korea,"November 30, 2021",1990,1 Season,Stories from the past come alive.,History
+s1,Movie,The Great Adventure,John Smith,"Actor A, Actor B",USA,"January 15, 2020",1993,95.0,An epic journey through uncharted lands.,Adventure
+s2,Movie,Romance in Paris,Emma Brown,"Actor C, Actor D",France,"March 3, 2021",1997,120.0,A love story set in the city of lights.,Romance
+s3,TV Show,Mystery Nights,Lucas White,"Actor E, Actor F",UK,"June 12, 2019",1995,,Unsolved mysteries haunt the dark nights.,Mystery
+s4,Movie,Action Heroes,Sophia Johnson,"Actor G, Actor H",Canada,"July 22, 2020",1999,85.0,A group of heroes save the world from evil.,Action
+s5,Movie,Dream Big,Michael Green,"Actor I, Actor J",India,"October 5, 2022",1992,90.0,Inspiring story of following your dreams.,Drama
+s6,TV Show,Comedy Central,Olivia Lee,"Actor K, Actor L",USA,"December 18, 2021",1996,,Laughs and joy with friends and family.,Comedy
+s7,Movie,The Last Battle,David Wilson,"Actor M, Actor N",Australia,"April 10, 2020",1994,110.0,The final stand against all odds.,Action
+s8,Movie,Love Forever,Emily Taylor,"Actor O, Actor P",Nigeria,"September 7, 2022",1998,100.0,A timeless romance that never fades.,Romance
+s9,Movie,Science Quest,Chris Martin,"Actor Q, Actor R",Germany,"May 29, 2018",1991,85.0,Exploring the wonders of science.,Sci-Fi
+s10,TV Show,Historic Tales,Sarah Lewis,"Actor S, Actor T",South Korea,"November 30, 2021",1990,,Stories from the past come alive.,History
